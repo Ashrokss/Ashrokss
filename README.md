@@ -52,7 +52,7 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 - [Live App demo](https://loaneligibiltyprediction-web-app-gw723an5hcgxwqyuac9ppi.streamlit.app/)
 
 ### [Bank Churn Analysis](https://github.com/Ashrokss/Bank-Churn-Analysis)
-- Developed and deployed a predictive model to anticipate customer churn, leading to targeted retention strategies.
+- Developed a predictive model to anticipate customer churn, leading to targeted retention strategies.
 - **Accuracy**: 75%
 - **Precision**: 75%
 - **Recall**: 70%
@@ -107,7 +107,7 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 ### Birla Institute of Technology, Mesra (Jaipur Campus)
 - **MCA (Masters in Computer Applications)**
 - **CGPA**: 8.00
-- **2023 - Present**
+- **2023 - 2025**
 
 ### Manipal University Jaipur
 - **BCA (Bachelors in Computer Applications)**
