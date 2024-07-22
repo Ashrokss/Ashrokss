@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
-<h3 align="center">An aspiring Data Science Professional from India</h3>
+<h3 align="center">An Aspiring Data Science Professional from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
