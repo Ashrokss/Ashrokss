@@ -60,7 +60,7 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 - Analyzed Amazon Prime Video data using Power BI to create interactive dashboards.
 - Fully visualized the dataset and generated useful insights.
 
-### [Salary Prediction Web App](https://salary-prediction-web-app-ypsqpjmchokzoeuzp5k884.streamlit.app/)
+### [Salary Prediction Web App](https://github.com/Ashrokss/Salary-Prediction-Web-App)
 - Developed a Streamlit app to predict salary based on education level, years of experience, and gender.
 - [Live App demo](https://salary-prediction-web-app-ypsqpjmchokzoeuzp5k884.streamlit.app/)
 
