@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **ashish200221@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1uAR4t2pawSfTL0lKK825ArMNGanAlDb5/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1TZuG9W7WLaLFnO8iDcDTaKi0Fvqt7v04/view?usp=sharing)
  
 ---
 
