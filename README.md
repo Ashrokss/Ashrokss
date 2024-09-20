@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
 <h3 align="center">An Aspiring Data Science Professional from India</h3>
 
+- ![](https://komarev.com/ghpvc/?username=Ashrokss)
+
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [https://ashrokss.github.io/AshishPal.github.io/](https://ashrokss.github.io/AshishPal.github.io/)
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me: **ashish200221@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1TZuG9W7WLaLFnO8iDcDTaKi0Fvqt7v04/view?usp=sharing)
+- 📄 Resume : [Link](https://drive.google.com/file/d/1TZuG9W7WLaLFnO8iDcDTaKi0Fvqt7v04/view?usp=sharing)
  
 ---
 
