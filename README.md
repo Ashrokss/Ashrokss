@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
 <h3 align="center">An Aspiring Data Science Professional from India</h3>
 
+- Pofile Hits : [![HitCount](https://hits.dwyl.com/Ashrokss/Ashrokss.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Ashrokss/Ashrokss)
+
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [https://ashrokss.github.io/AshishPal.github.io/](https://ashrokss.github.io/AshishPal.github.io/)
