@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
-- 🌱 I’m currently learning **Machine Learning and Data Analytics**
+- 🌱 I’m currently learning **Machine Learning,Data Analytics & Cloud Computing**
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [https://ashrokss.github.io/AshishPal.github.io/](https://ashrokss.github.io/AshishPal.github.io/)
 
@@ -110,12 +110,12 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 
 ### Birla Institute of Technology, Mesra (Jaipur Campus)
 - **MCA (Masters in Computer Applications)**
-- **CGPA**: 8.00
+- **CGPA**: 8.69 
 - **2023 - 2025**
 
 ### Manipal University Jaipur
 - **BCA (Bachelors in Computer Applications)**
-- **CGPA**: 9.37
+- **CGPA**: 9.43
 - **2020 - 2023**
 
 ---
