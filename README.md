@@ -51,7 +51,6 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 - **Precision**: 76%
 - **Recall**: 91%
 - **F1-Score**: 83%
-- [Live App demo](https://loaneligibiltyprediction-web-app-gw723an5hcgxwqyuac9ppi.streamlit.app/)
 
 ### [Bank Churn Analysis](https://github.com/Ashrokss/Bank-Churn-Analysis)
 - Developed a predictive model to anticipate customer churn, leading to targeted retention strategies.
@@ -66,7 +65,6 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 
 ### [Salary Prediction Web App](https://github.com/Ashrokss/Salary-Prediction-Web-App)
 - Developed a Streamlit app to predict salary based on education level, years of experience, and gender.
-- [Live App demo](https://salary-prediction-web-app-ypsqpjmchokzoeuzp5k884.streamlit.app/)
 
 ---
 
@@ -136,5 +134,4 @@ Aspiring Data Analyst with a strong foundation in data manipulation, cleaning, a
 
 - **Email**: [ashish200221@gmail.com](mailto:ashish200221@gmail.com)
 - **LinkedIn**: [Ashish Pal](https://www.linkedin.com/in/ashish-pal-b959b1254/)
-- **GitHub**: [Ashrokss](https://github.com/Ashrokss)
 - **Portfolio**: [Ashish Pal](https://ashrokss.github.io/AshishPal.github.io/)
