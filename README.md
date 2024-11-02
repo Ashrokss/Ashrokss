@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
-- 🌱 I’m currently learning **Machine Learning,Data Analytics & Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning ,Data Analytics & Cloud Computing**
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [https://ashrokss.github.io/AshishPal.github.io/](https://ashrokss.github.io/AshishPal.github.io/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **ashish200221@gmail.com**
 
-- 📄 Resume : [Link](https://drive.google.com/file/d/1TZuG9W7WLaLFnO8iDcDTaKi0Fvqt7v04/view?usp=sharing)
+- 📄 Resume : [Link](https://drive.google.com/file/d/1cWVNNtKFAX_98gEgFq9BFflH4LPUz-7K/view?usp=sharing)
  
 ---
 
