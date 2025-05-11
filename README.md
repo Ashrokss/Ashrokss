@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
 
-- 🌱 I’m currently learning **Machine Learning ,Data Analytics & Cloud Computing**
+- 🌱 I’m currently learning **Agentic AI frameworks ,Machine Learning ,Data Analytics & Cloud Computing**
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [https://ashrokss.github.io/AshishPal.github.io/](https://ashrokss.github.io/AshishPal.github.io/)
 
