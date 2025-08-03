@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **ashish200221@gmail.com**
 
-- 📄 Resume : [Link](https://drive.google.com/file/d/1cWVNNtKFAX_98gEgFq9BFflH4LPUz-7K/view?usp=sharing)
+- 📄 Resume : [Link](https://drive.google.com/file/d/19aq84fFWnw5H8IbN_KOBJWVXl4LdboLF/view?usp=sharing)
  
 ---
 
