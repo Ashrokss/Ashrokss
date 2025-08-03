@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Agentic AI frameworks ,Machine Learning ,Data Analytics & Cloud Computing**
 
-- 👨‍💻 Explore some of my projects on my Portfolio: [https://ashrokss.github.io/AshishPal.github.io/](https://ashrokss.github.io/AshishPal.github.io/)
+- 👨‍💻 Explore some of my projects on my Portfolio: [Link](https://674c03db2f674d3b4d3260cc--unrivaled-smakager-41aecf.netlify.app/)
 
 - 💬 Ask me about **ML, Python, Power BI, Data Analytics**
 
