@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
-<h3 align="center">An Aspiring Data Science Professional from India</h3>
+<h3 align="center"></h3>
 
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
