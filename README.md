@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
 
-- 🌱 I’m currently learning **Agentic AI frameworks ,Machine Learning ,Data Analytics & Cloud Computing**
+- 🌱 I’m currently learning **DevOps practices, CI/CD pipelines, Infrastructure as Code with Terraform/OpenTofu, Azure cloud architecture, and automation for scalable and reliable deployments.**
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [Link](https://ash-21.netlify.app/)
 
