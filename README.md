@@ -8,7 +8,7 @@
 
 - 👨‍💻 Explore some of my projects on my Portfolio: [Link](https://ash-21.netlify.app/)
 
-- 💬 Ask me about **ML, Python, Power BI, Data Analytics**
+- 💬 Ask me about **DevOps practices, CI/CD pipelines,  Azure cloud architecture, Terraform/OpenTofu**
 
 - 📫 How to reach me: **ashish200221@gmail.com**
  
