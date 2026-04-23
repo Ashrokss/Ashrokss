@@ -11,8 +11,6 @@
 - 💬 Ask me about **ML, Python, Power BI, Data Analytics**
 
 - 📫 How to reach me: **ashish200221@gmail.com**
-
-- 📄 Resume : [Link](https://drive.google.com/file/d/19aq84fFWnw5H8IbN_KOBJWVXl4LdboLF/view?usp=sharing)
  
 ---
 
