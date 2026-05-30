@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/greeting.svg?v=8" alt="Hi 👋, I'm Ashish Pal" />
+  <img src="assets/greeting.svg?v=9" alt="Hi 👋, I'm Ashish Pal" />
 </h1>
 
 <h3 align="center">DevOps Engineer | Azure | Terraform | Ansible | Cloud Automation</h3>
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="assets/terminal.svg?v=2" alt="Animated Terminal" width="800">
+  <img src="assets/terminal.svg?v=3" alt="Animated Terminal" width="800">
 </p>
 
 <p align="center">
