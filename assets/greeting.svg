@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80">
   <style>
     text {
       font-family: 'Fira Code', Consolas, 'Courier New', monospace;
@@ -13,34 +13,42 @@
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
   </style>
 
-  <g transform="translate(170, 40)">
+  <g transform="translate(165, 50)">
     
-    <!-- Line 1 -->
-    <g clip-path="url(#clip1)">
-      <text x="0" y="0">Hi 👋, I'm Ashish Pal</text>
-    </g>
-    
-    <!-- Line 1 Typing Cursor -->
-    <rect y="-28" width="12" height="35" fill="#7ee787">
-      <animate attributeName="x" values="0; 0; 470; 470; 0; 0; 470; 470" keyTimes="0; 0.05; 0.15; 0.5; 0.5001; 0.55; 0.65; 1" dur="10s" fill="freeze" />
-      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 1; 1; 0; 0" keyTimes="0; 0.049; 0.05; 0.15; 0.151; 0.549; 0.55; 0.65; 0.651; 1" dur="10s" fill="freeze" />
-    </rect>
-    
-    <!-- Line 2 -->
-    <g clip-path="url(#clip2)">
-      <text x="0" y="45">Welcome to my GitHub!</text>
-    </g>
-    
-    <!-- Line 2 Typing Cursor -->
-    <rect y="17" width="12" height="35" fill="#7ee787">
-      <animate attributeName="x" values="0; 0; 470; 470; 0; 0; 470; 470" keyTimes="0; 0.2; 0.3; 0.5; 0.5001; 0.7; 0.8; 1" dur="10s" fill="freeze" />
-      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 1; 1; 0; 0" keyTimes="0; 0.199; 0.2; 0.3; 0.301; 0.699; 0.7; 0.8; 0.801; 1" dur="10s" fill="freeze" />
-    </rect>
-    
-    <!-- Final Blinking Cursor -->
+    <!-- Line 1 Sequence -->
     <g>
-      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 1; 1" keyTimes="0; 0.299; 0.3; 0.5; 0.5001; 0.799; 0.8; 1" dur="10s" fill="freeze" />
-      <rect x="470" y="17" width="12" height="35" class="cursor-blink" />
+      <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.499; 0.5; 1" dur="5s" repeatCount="2" fill="freeze" />
+      
+      <g clip-path="url(#clip1)">
+        <text x="0" y="0">Hi 👋, I'm Ashish Pal</text>
+      </g>
+      
+      <!-- Typing Cursor -->
+      <rect y="-28" width="12" height="35" fill="#7ee787">
+        <animate attributeName="x" values="0; 0; 470; 470" keyTimes="0; 0.1; 0.3; 1" dur="5s" repeatCount="2" fill="freeze" />
+        <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 0.3; 0.301; 1" dur="5s" repeatCount="2" fill="freeze" />
+      </rect>
+    </g>
+
+    <!-- Line 2 Sequence -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.499; 0.5; 1" dur="5s" repeatCount="2" fill="freeze" />
+      
+      <g clip-path="url(#clip2)">
+        <text x="0" y="0">Welcome to my GitHub!</text>
+      </g>
+      
+      <!-- Typing Cursor -->
+      <rect y="-28" width="12" height="35" fill="#7ee787">
+        <animate attributeName="x" values="0; 0; 470; 470" keyTimes="0; 0.5; 0.7; 1" dur="5s" repeatCount="2" fill="freeze" />
+        <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.499; 0.5; 0.7; 0.701; 1" dur="5s" repeatCount="2" fill="freeze" />
+      </rect>
+      
+      <!-- Final Blinking Cursor -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.699; 0.7; 1" dur="5s" repeatCount="2" fill="freeze" />
+        <rect x="470" y="-28" width="12" height="35" class="cursor-blink" />
+      </g>
     </g>
 
   </g>
@@ -48,12 +56,12 @@
   <defs>
     <clipPath id="clip1">
       <rect x="0" y="-40" width="0" height="50">
-        <animate attributeName="width" values="0; 0; 470; 470; 0; 0; 470; 470" keyTimes="0; 0.05; 0.15; 0.5; 0.5001; 0.55; 0.65; 1" dur="10s" fill="freeze" />
+        <animate attributeName="width" values="0; 0; 470; 470" keyTimes="0; 0.1; 0.3; 1" dur="5s" repeatCount="2" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip2">
-      <rect x="0" y="5" width="0" height="50">
-        <animate attributeName="width" values="0; 0; 470; 470; 0; 0; 470; 470" keyTimes="0; 0.2; 0.3; 0.5; 0.5001; 0.7; 0.8; 1" dur="10s" fill="freeze" />
+      <rect x="0" y="-40" width="0" height="50">
+        <animate attributeName="width" values="0; 0; 470; 470" keyTimes="0; 0.5; 0.7; 1" dur="5s" repeatCount="2" fill="freeze" />
       </rect>
     </clipPath>
   </defs>
