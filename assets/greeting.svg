@@ -11,7 +11,7 @@
       animation: blink 1s step-end infinite;
     }
     .cursor-typing {
-      animation: blink-type 1.5s step-end forwards;
+      animation: blink 0.6s step-end infinite;
     }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
     @keyframes blink-type { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
@@ -22,15 +22,14 @@
       <text x="0" y="0">Hi 👋, I'm Ashish Pal</text>
     </g>
     
-    <rect x="0" y="-28" width="20" height="35" fill="#7ee787" class="cursor-typing">
+    <rect x="0" y="-28" width="12" height="35" fill="#7ee787" class="cursor-typing">
       <animate attributeName="x" from="0" to="470" dur="1.5s" begin="0.3s" fill="freeze" />
       <animate attributeName="opacity" values="1;0" dur="0.1s" begin="1.8s" fill="freeze" />
     </rect>
     
-    <text x="470" y="0" class="cursor" opacity="0">
-      _
+    <rect x="470" y="-28" width="12" height="35" fill="#7ee787" class="cursor" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.8s" fill="freeze" />
-    </text>
+    </rect>
   </g>
   <defs>
     <clipPath id="typewriter">
