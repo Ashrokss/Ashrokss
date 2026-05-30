@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&color=BC6C3B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Ashish+Pal;Welcome+to+my+GitHub+Profile!" alt="Hi 👋, I'm Ashish Pal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&color=BC6C3B&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Ashish+Pal;Welcome+to+my+GitHub+Profile!" alt="Hi 👋, I'm Ashish Pal" />
 </h1>
 
 <h3 align="center">DevOps Engineer | Azure | Terraform | Ansible | Cloud Automation</h3>
