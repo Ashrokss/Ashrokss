@@ -16,21 +16,14 @@
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
 
-```bash
-ashish@ubuntu:~/about-me$ cat profile.txt
+<p align="center">
+  <img src="assets/terminal.svg" alt="Animated Terminal" width="800">
+</p>
 
-🌱 Currently learning:
-   DevOps practices, CI/CD pipelines, IaC (Terraform/OpenTofu), Azure cloud architecture.
-
-👨‍💻 Portfolio:
-   https://ash-21.netlify.app/
-
-💬 Ask me about:
-   DevOps, CI/CD, Azure, Terraform, OpenTofu
-
-📫 Reach me at:
-   ashish200221@gmail.com
-```
+<p align="center">
+  <a href="https://ash-21.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="mailto:ashish200221@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
 ---
 
