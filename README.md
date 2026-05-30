@@ -16,14 +16,22 @@
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
 
-- 🌱 I’m currently learning **DevOps practices, CI/CD pipelines, Infrastructure as Code with Terraform/OpenTofu, Azure cloud architecture**.
+```bash
+ashish@ubuntu:~/about-me$ cat profile.txt
 
-- 👨‍💻 Explore some of my projects on my Portfolio: [Link](https://ash-21.netlify.app/)
+🌱 Currently learning:
+   DevOps practices, CI/CD pipelines, IaC (Terraform/OpenTofu), Azure cloud architecture.
 
-- 💬 Ask me about **DevOps practices, CI/CD pipelines,  Azure cloud architecture, Terraform/OpenTofu**
+👨‍💻 Portfolio:
+   https://ash-21.netlify.app/
 
-- 📫 How to reach me: **ashish200221@gmail.com**
- 
+💬 Ask me about:
+   DevOps, CI/CD, Azure, Terraform, OpenTofu
+
+📫 Reach me at:
+   ashish200221@gmail.com
+```
+
 ---
 
 
