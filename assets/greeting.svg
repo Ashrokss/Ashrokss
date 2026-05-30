@@ -3,8 +3,8 @@
     text {
       font-family: "Fira Code", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
       font-size: 35px;
-      font-weight: bold;
-      fill: #BC6C3B;
+      font-weight: 600;
+      fill: #00F7FF;
     }
   </style>
   <text x="400" y="45" text-anchor="middle">Hi 👋, I'm Ashish Pal</text>
