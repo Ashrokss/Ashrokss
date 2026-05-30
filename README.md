@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Animated Terminal" width="800">
+  <img src="assets/terminal.svg?v=2" alt="Animated Terminal" width="800">
 </p>
 
 <p align="center">
