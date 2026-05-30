@@ -22,7 +22,6 @@
 
 <p align="center">
   <a href="https://ash-21.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
-  <a href="mailto:ashish200221@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
