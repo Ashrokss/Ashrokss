@@ -4,10 +4,10 @@
       font-family: 'Fira Code', Consolas, 'Courier New', monospace;
       font-size: 35px;
       font-weight: bold;
-      fill: #58a6ff;
+      fill: #7ee787;
     }
     .cursor {
-      fill: #58a6ff;
+      fill: #7ee787;
       animation: blink 1s step-end infinite;
     }
     .cursor-typing {
@@ -22,7 +22,7 @@
       <text x="0" y="0">Hi 👋, I'm Ashish Pal</text>
     </g>
     
-    <rect x="0" y="-28" width="20" height="35" fill="#58a6ff" class="cursor-typing">
+    <rect x="0" y="-28" width="20" height="35" fill="#7ee787" class="cursor-typing">
       <animate attributeName="x" from="0" to="470" dur="1.5s" begin="0.3s" fill="freeze" />
       <animate attributeName="opacity" values="1;0" dur="0.1s" begin="1.8s" fill="freeze" />
     </rect>
