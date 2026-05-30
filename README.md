@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/greeting.svg?v=3" alt="Hi 👋, I'm Ashish Pal" />
+  <img src="assets/greeting.svg?v=4" alt="Hi 👋, I'm Ashish Pal" />
 </h1>
 
 <h3 align="center">DevOps Engineer | Azure | Terraform | Ansible | Cloud Automation</h3>
