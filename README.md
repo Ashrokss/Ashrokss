@@ -15,6 +15,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Ashrokss)
 
+<h3 align="center"><code>ashish@github ~ $ ./contributions.sh</code></h3>
+
+<p align="center">
+  <img src="contrib-heatmap.svg" width="860" alt="Ashish's GitHub contribution graph — auto-refreshed daily" />
+</p>
 
 <p align="center">
   <img src="assets/terminal.svg?v=3" alt="Animated Terminal" width="800">
@@ -22,6 +27,7 @@
 
 <p align="center">
   <a href="https://ash-21.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="https://ashrokss.github.io"><img src="https://img.shields.io/badge/%E2%9A%A1_Live_Terminal-ashrokss.github.io-39d353?style=for-the-badge&logo=gnometerminal&logoColor=black" alt="Live Terminal" /></a>
 </p>
 
 ---
