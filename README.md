@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://ash-21.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
-  <a href="https://ashrokss.github.io"><img src="https://img.shields.io/badge/%E2%9A%A1_Live_Terminal-ashrokss.github.io-39d353?style=for-the-badge&logo=gnometerminal&logoColor=black" alt="Live Terminal" /></a>
+  <a href="https://ashrokss.github.io"><img src="https://img.shields.io/badge/Live%20Terminal-ashrokss.github.io-39d353?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Terminal" /></a>
 </p>
 
 ---
@@ -71,4 +71,4 @@
 
 - **Email**: [ashish200221@gmail.com](mailto:ashish200221@gmail.com)
 - **LinkedIn**: [Ashish Pal](https://www.linkedin.com/in/ashish-pal-b959b1254/)
-- **Portfolio**: [Ashish Pal](https://ashrokss.github.io/AshishPal.github.io/)
+- **Portfolio**: [Ashish Pal](https://ash-21.netlify.app/)
