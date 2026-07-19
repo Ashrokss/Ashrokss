@@ -55,9 +55,9 @@
 
 ### Agentic Dev & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](assets/bash-badge.svg)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](assets/openai-badge.svg)
 ![CrewAI](https://img.shields.io/badge/CrewAI-%23FF4B4B.svg?style=for-the-badge&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-%232D3748.svg?style=for-the-badge&logoColor=white)
 
