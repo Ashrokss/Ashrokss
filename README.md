@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://ash-21.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
-  <a href="https://ashrokss.github.io"><img src="https://img.shields.io/badge/Live%20Terminal-ashrokss.github.io-39d353?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Terminal" /></a>
+  <a href="https://ashrokss.github.io"><img src="assets/live-terminal-badge.svg" alt="Live Terminal" /></a>
 </p>
 
 ---
