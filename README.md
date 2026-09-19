@@ -2,7 +2,7 @@
   <img src="assets/greeting.svg?v=10" alt="Hi 👋, I'm Ashish Pal" />
 </h1>
 
-<h3 align="center">DevOps Engineer | Azure | Terraform | Ansible | Cloud Automation</h3>
+<h3 align="center">DevOps Engineer | Azure | AWS | Terraform | Ansible | Cloud Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+on+Azure;Automating+Infrastructure+with+Terraform;Managing+Cloud+with+IaC;Learning+GenAI+and+AI+Agents;Always+Learning+Something+New" alt="Typing SVG" />
