@@ -1,22 +1,22 @@
 {
   "username": "Ashrokss",
-  "generated_at": "2026-10-24T11:02:01Z",
+  "generated_at": "2026-10-25T11:30:41Z",
   "range": {
-    "start": "2025-10-19",
+    "start": "2025-10-26",
+    "end": "2026-10-25"
+  },
+  "total_contributions": 706,
+  "active_days": 159,
+  "avg_per_active_day": 4.4,
+  "current_streak": {
+    "length": 101,
+    "start": "2026-07-16",
     "end": "2026-10-24"
   },
-  "total_contributions": 705,
-  "active_days": 158,
-  "avg_per_active_day": 4.5,
-  "current_streak": {
-    "length": 100,
-    "start": "2026-07-16",
-    "end": "2026-10-23"
-  },
   "longest_streak": {
-    "length": 100,
+    "length": 101,
     "start": "2026-07-16",
-    "end": "2026-10-23"
+    "end": "2026-10-24"
   },
   "best_day": {
     "date": "2026-07-19",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 26
+      "total": 27
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0
     }
   ]
